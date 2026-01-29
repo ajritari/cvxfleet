@@ -1,8 +1,8 @@
-# Convex formulation of the maritime feet size and mix problem considering battery electric ships
+# Convex formulation of the maritime fleet size and mix problem considering battery electric ships
 
 This repository contains the source code for the experiments in our paper: 
 
-**Convex formulation of the maritime feet size and mix problem considering battery electric ships** <br>
+**Convex formulation of the maritime fleet size and mix problem considering battery electric ships** <br>
 *Antti Ritari, Jani Romanoff, Kari Tammi* <br>
 Paper: [https://arxiv.org/abs/2510.04313](https://arxiv.org/abs/2510.04313) <br>
 
